@@ -1,0 +1,21 @@
+public class Personnage {
+protected String nom;
+	protected int pointVie;
+	protected Bataille bataille;
+	
+	public Personnage(String nom, int pointVie) {
+		this.nom = nom; 
+		this.pointVie = pointVie;
+	}
+
+
+
+	public String getNom() {
+		// TODO Auto-generated method stub
+		return nom;
+	}
+	
+   
+}
+
+
