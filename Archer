@@ -1,1 +1,17 @@
 
+
+package Personnage;
+
+
+
+public class Archer extends Personnage 
+{
+
+	public Archer (String nom) 
+	{
+		super(nom);
+		pointVie=150;
+	
+  
+	}
+}
