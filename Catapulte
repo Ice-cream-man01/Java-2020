@@ -1,1 +1,17 @@
 
+
+package Personnage;
+
+
+
+public class Catapulte extends Personnage 
+{
+
+	public Valkyrie (String nom) 
+	{
+		super(nom);
+		pointVie=150;
+	
+  
+	}
+}
