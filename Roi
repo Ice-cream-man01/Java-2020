@@ -1,1 +1,17 @@
 
+
+package Personnage;
+
+
+
+public class Roi extends Personnage 
+{
+
+	public Roi (String nom) 
+	{
+		super(nom);
+		pointVie=300;
+	
+  
+	}
+}
