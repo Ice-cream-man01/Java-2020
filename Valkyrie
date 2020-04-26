@@ -1,1 +1,16 @@
 
+package Personnage;
+
+
+
+public class Valkyrie extends Personnage 
+{
+
+	public Valkyrie (String nom) 
+	{
+		super(nom);
+		pointVie=200;
+	
+  
+	}
+}
