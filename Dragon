@@ -1,1 +1,17 @@
 
+
+package Personnage;
+
+
+
+public class Dragon extends Personnage 
+{
+
+	public Dragon (String nom) 
+	{
+		super(nom);
+		pointVie=200;
+	
+  
+	}
+}
