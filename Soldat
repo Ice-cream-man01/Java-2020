@@ -1,1 +1,15 @@
-//
+package Personnage;
+
+
+
+public class Soldat extends Personnage 
+{
+
+	public Soldat (String nom) 
+	{
+		super(nom);
+		pointVie=150;
+	
+  
+	}
+}
